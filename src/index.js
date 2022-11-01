@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  // wah kya baat hai
+  // wah kya baat haiyrt
   <React.StrictMode>
     <App />
   </React.StrictMode>
